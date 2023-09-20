@@ -1,5 +1,6 @@
 import { galleryItems } from "./gallery-items.js";
-// Change code below this line
+
+//! Change code below this line
 
 const imagesList = document.querySelector("ul.gallery");
 const galleryCards = createGallery(galleryItems);
